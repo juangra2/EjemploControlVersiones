@@ -14,4 +14,8 @@ knitr::opts_chunk$set(echo = TRUE)
 r <- 0.5
 Area <- pi*r^2
 ```
-
+## Area Cuadraro
+```{r}
+lados <- 3
+AreaCuadrado <- lados*2
+```

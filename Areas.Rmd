@@ -34,3 +34,10 @@ altura <- 5
 AreaRectangulo <- base*altura
 ```
 
+## Area Trapecio
+```{r}
+baseA <- 4
+baseB <- 5
+alturaH <- 7
+AreaTrapecio <- (baseA+baseB)*alturaH/2
+```

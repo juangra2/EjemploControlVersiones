@@ -7,5 +7,9 @@ LongitudCircunferencia <- function(R){
 }
 
 PerimetroRectangulo <- function(l, w){
+<<<<<<< HEAD
   return ((l+w)*2)
+=======
+  return (2*(l+w))
+>>>>>>> Rama3
 }
